@@ -290,7 +290,7 @@ Cardiff Dev Workshop, 8th June 2013
 
 DjangoCon Europe in Warsaw, 18th May 2013
 -----------------------------------------
-
+* Arjeet Singh
 * Amjith Ramanujam - The Dark Knight
 * @zlatkoc
 * larssos@github
